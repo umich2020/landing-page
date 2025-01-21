@@ -43,3 +43,29 @@ button {
 }
 /*the sections will need to use flexbox to seperate equally*/
 /*will change all the colors appropriately later, but we keep it this way for simplicity*/
+/*section 2*/
+.part2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.box {
+    border: 3px solid blue;
+    width: 100px;
+    border-radius: 25px;
+    aspect-ratio: 1/1;
+
+}
+.multiple_boxes {
+    display: flex;
+    gap: 24px;
+
+}
+.box_text {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.box_text p {
+    color: grey;
+}

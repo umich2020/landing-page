@@ -5,4 +5,5 @@ https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab0
 and using the styling from
 https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png
 
+All the images are via website. Because I dont' want to bother remembering files and it's relatively easy to do.
 I'm also practing using git and looking at history
