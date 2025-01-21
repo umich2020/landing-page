@@ -84,3 +84,36 @@ button {
 .quote {
     font-size: 32px;
 }
+/* section 4*/
+#c2a {
+    background-color: blue;
+    color: white;
+    border: white solid 3px;
+    border-radius: 5px;
+    height:max-content;
+    text-align: center;
+    padding: 2px 16px;
+    align-self: center;
+    
+}
+.text_c2a{
+    color: white;
+    gap: 4px;
+    flex-direction: column;
+    display: flex;
+    margin: 32px 0;
+
+}
+.plate {
+    background-color: blue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 100px
+}
+.c2a, .signup {
+    margin: 0px
+}
+.c2a {
+    font-weight: bold;
+}
