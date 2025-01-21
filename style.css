@@ -8,6 +8,10 @@
     color: white;
     font-family: Roboto, serif;
 }
+p {
+    font-family: Roboto, serif;
+
+}
 .Left {
     font-size: 24px;
     font-weight: 900;
@@ -68,4 +72,15 @@ button {
 }
 .box_text p {
     color: grey;
+}
+/*section 3*/
+.part3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 150px;
+    background-color: grey;
+}
+.quote {
+    font-size: 32px;
 }
