@@ -80,7 +80,7 @@ button {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 150px;
+    padding: 100px 150px;
     background-color: #e5e7eb;
 }
 .quote {
