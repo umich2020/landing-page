@@ -117,3 +117,15 @@ button {
 .c2a {
     font-weight: bold;
 }
+/*footer section*/
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+
+}
+.footer_text {
+    color: white;
+    text-align: center;
+
+}
